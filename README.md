@@ -1,82 +1,86 @@
-# 👋 Hi there, I'm Abhiraj Chaudhary
+<h1 align="center">Hey 👋 I'm Abhiraj Chaudhary</h1>
 
-🎓 **Computer Science @ Arizona State University** (GPA: 4.00)  
-🔍 Passionate about **backend systems**, **microservices**, and **AI-driven platforms**  
-🚀 Building secure, scalable applications with a focus on **distributed systems**, **cloud infrastructure**, and **data engineering**
-
----
-
-## 🧠 About Me
-
-- 💼 Backend Engineer | Distributed Systems Enthusiast | Cloud-Native Developer
-- 🏆 2+ years experience building **scalable web apps**, **ML data pipelines**, and **production-grade APIs**
-- 🧰 Tools of choice: **Java, Go, Python, TypeScript, Node.js, Spring Boot, Docker, AWS, Kafka, gRPC**
-- 📈 I love solving real-world problems with clean architecture, data-driven insight, and strong testing principles
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Hey+I'm+Abhiraj+Chaudhary!;Full+Stack+Developer+%F0%9F%92%BB;Cloud-Native+Engineer+%E2%9C%88%EF%B8%8F;AI+Product+Builder+%F0%9F%A4%96;TypeScript+%E2%9D%A4%EF%B8%8F+Go+%E2%9D%A4%EF%B8%8F+Next.js+%E2%9D%A4%EF%B8%8F;Spring+%7C+FastAPI+%7C+GraphQL+%7C+PostgreSQL;Crafting+Clean+Code+and+Impactful+Products+%F0%9F%8C%9F" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+### 🧑‍💻 About Me
 
-**Languages**  
-`Java` `Go` `Python` `TypeScript` `Kotlin` `JavaScript` `C++`
-
-**Frameworks & Systems**  
-`Node.js` `Express.js` `Spring Boot` `FastAPI` `Django` `gRPC` `GraphQL` `Microservices`
-
-**Cloud & Infrastructure**  
-`AWS (EC2, S3, Lambda, RDS, DynamoDB)` `Docker` `Kubernetes` `Jenkins` `Terraform` `Git` `CI/CD`
-
-**Databases & Data Engineering**  
-`PostgreSQL` `MongoDB` `MySQL` `Kafka` `Airflow` `TensorFlow` `PyTorch`
+- 🎓 CS @ **Arizona State University**, GPA: **4.00**
+- 🌐 Full-stack engineer with strengths in **cloud apps**, **microservices**, and **AI-powered platforms**
+- 🧠 I love working with **React**, **Next.js**, **Go**, **Spring Boot**, and **FastAPI**
+- ⚙️ Focused on **robust backend design**, **fast UIs**, and **real-world deployment**
+- 📝 Published on [arXiv](http://arxiv.org/abs/2302.13482) for AI reasoning research
 
 ---
 
-## 🔨 Notable Projects
+### 🛠️ Tech I Use
 
-### 🏥 Patient Management System – *Spring Boot, Kafka, gRPC*
-> Production-ready microservices for patient registration, billing, and analytics  
-> 🔐 Spring Security & JWT | 🐳 Dockerized services | ☁️ Deployed via CloudFormation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,nodejs,nextjs,react,docker,kubernetes,aws" />
+</p>
 
-### 📦 Product Inventory Catalog – *Full Stack, GraphQL*
-> GraphQL-powered inventory system with PostgreSQL, React, Apollo, and TypeORM  
-> ⚙️ Real-time queries | 📊 Rich frontend UI | 🔄 Robust many-to-many data relations
-
-### 🍽️ Order Management with Go – *gRPC & Protocol Buffers*
-> Event-driven kitchen/order microservices using Go, tested via CLI and browser  
-> ⚡ High-speed RPCs | 📐 Well-structured protobuf interfaces | 🔄 Full-service orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,postgres,mysql,mongodb,graphql,fastapi,django,tailwind" />
+</p>
 
 ---
 
-## 🏢 Work Experience
+### ⚒️ What I’m Building
 
-### 🔧 **SDE Intern @ Tweebaa Inc.** (2024–2025)
-- Built secure Kotlin-based APIs for PayPal/Stripe; boosted transaction success by 20%
-- Launched cross-platform sharing & AWS-powered microservice architecture for Play Store
+#### 💬 MERN AI Chatbot  
+> ChatGPT-style bot with OpenAI, real-time messages, JWT auth, Material UI + Vite  
+> 🔗 Stack: MongoDB · Express.js · React · Node.js · TypeScript
 
-### 🌱 **Software Developer @ Terra-Fresh** (2023–2024)
-- Designed ML-driven agricultural data pipelines aggregating 32M+ records
-- Delivered full-stack dashboards (Node.js + PostgreSQL) for 200+ crop trends
+#### 🎙️ AI-Powered Mock Interview Platform  
+> Next.js + Gemini AI for live question generation & speech-to-text feedback  
+> 🔐 Clerk auth · Drizzle ORM · PostgreSQL · Deployed on Vercel
 
-### 🔬 **Researcher @ ASU** (2022)
-- Simulated supply chain vulnerabilities using PyReason and NetworkX on Soc-Pokec
-- Published in [arXiv](http://arxiv.org/abs/2302.13482): *Open World Temporal Logic Framework*
+#### 🧠 Branding Generator SaaS  
+> Serverless SaaS that auto-generates startup branding & keyword ideas  
+> FastAPI backend (AWS Lambda) + Next.js frontend (Vercel)
 
----
-
-## 🧾 Publications
-
-**[PyReason: Software for Open World Temporal Logic](http://arxiv.org/abs/2302.13482)**  
-Chaudhary, A. et al. – arXiv, 2023
+#### 🏥 Patient Management System  
+> Spring Boot microservices with Kafka, gRPC, and LocalStack infrastructure  
+> 🔒 JWT-secured auth · Dockerized · Fully event-driven
 
 ---
 
-## 🌐 Find Me Online
+### 🧠 My Publication
 
-[📫 Portfolio](https://abhirajchaudhary.netlify.app/)  
-[🔗 LinkedIn](https://www.linkedin.com/in/abhiraj-chaudhary/)  
-📧 linkedinabhiraj@gmail.com
+📘 [PyReason: Software for Open World Temporal Logic](http://arxiv.org/abs/2302.13482)  
+> Published research on AI simulation tools with Python & NetworkX
 
 ---
 
-_Always seeking to learn, build, and contribute to systems that scale._  
-Let’s connect and create something awesome! 🤝
+### ✨ Tools I Love
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-202123?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
+</p>
+
+---
+
+### 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhiraj-chaudhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:linkedinabhiraj@gmail.com"><img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://abhirajchaudhary.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+</p>
+
+<p align="center">I build ideas, ship products, and engineer creative tech—one sprint at a time ⚡</p>
